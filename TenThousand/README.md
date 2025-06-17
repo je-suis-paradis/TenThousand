@@ -42,4 +42,4 @@ I run this project parallell to the quiz app mentioned earlier, with the ambitio
 ## 🏁 Concluding Thoughts
 Maybe this isn't the game to win me any prizes. But it is what makes me set my alarm to 5:45 am, to write a new method. It's the beginning of a loop that gets better every time you run it.
 
-Ideation and itirations by PARADiSET, June 2025.
+Ideation and iterations by PARADiSET, June 2025.
