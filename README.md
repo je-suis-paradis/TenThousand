@@ -1,4 +1,4 @@
-# 🔮 Ten Thousand
+# 🔮 Ten Thousand -- ** vibe coding alert **
 *Cross your fingers and throw your bones. But to win, you need to push your luck. Again and again, and again.*
 
 ## 🎬
